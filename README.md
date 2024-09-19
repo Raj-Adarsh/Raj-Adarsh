@@ -60,13 +60,12 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Checkout my portfolio</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+<!--portfolio link-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=Golang,Python,Linux,Docker,Kubernetes,AWS,GCP,Postgres,DynamoDB,ElasticSearch,Redis,Terraform,Jenkins,Packer,Prometheus,Grafana,REST,GraphQL,gRPC,Kafka,ElasticMQ,RabbitMQ,Wireshark,GDB,Git&perline=14" />
+  <a href="https://raj-adarsh.github.io/rajadarsh-portfolio/" title="Portfolio">
   </a>
 </p>
 
