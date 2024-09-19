@@ -7,14 +7,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -24,7 +16,7 @@
 
 
 <!--Intro start-->
-- I’m currently working on **AWS, Kubernetes, Terraform, Docker, CI/CD
+- I work with technologies such as AWS, Kubernetes, Terraform, Docker, CI/CD
   
 - I'm passionate above Cloud Computing - Platform Engineering, DevOps, SRE
 
@@ -38,7 +30,7 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010nishant&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Raj-Adarsh&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Adarsh&theme=dark&hide_border=false" /> 
 </td>
@@ -96,7 +88,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Raj-Adarsh&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
