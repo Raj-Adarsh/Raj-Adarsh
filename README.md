@@ -10,7 +10,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Software is bound to Fail</h2></summary>
+    <summary><h2 style="display: inline-block">Software is bound to fail..</h2></summary>
   </ul>
 </div>
 
