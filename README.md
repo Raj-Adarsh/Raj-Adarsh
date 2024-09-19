@@ -10,7 +10,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">Software is bound to Fail</h2></summary>
   </ul>
 </div>
 
@@ -65,8 +65,7 @@
 </div>
 <!--portfolio link-->
 <p align="center">
-  <a href="https://raj-adarsh.github.io/rajadarsh-portfolio/" title="Portfolio">
-  </a>
+  <a href="https://raj-adarsh.github.io/rajadarsh-portfolio/" title="Portfolio">Visit My Portfolio</a>
 </p>
 
 
