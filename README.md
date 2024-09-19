@@ -109,6 +109,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [Raj-Adarsh](https://github.com/Raj-Adarsh)
-
-Last Edited on: 09/18/2024
