@@ -29,29 +29,41 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" **alt="Go" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Raj-Adarsh&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Adarsh&theme=dark&hide_border=false" /> 
+</p>
+
+---
+
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raj-Adarsh&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-Adarsh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Raj-Adarsh&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
 </tr>
 </table>
 <!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Raj-Adarsh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
 
 </p>        
 <!--- stats (end) -->
@@ -81,6 +93,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/raazadarsh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>  
 </p>
+
+
 
 
 <!--profile visit count-->
