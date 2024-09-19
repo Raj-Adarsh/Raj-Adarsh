@@ -16,7 +16,7 @@
 
 
 <!--Intro start-->
-- I work with technologies such as AWS, Kubernetes, Terraform, Docker, CI/CD
+- I work with cloud technologies; AWS, Kubernetes, Terraform, Docker, CI/CD
   
 - I'm passionate above Cloud Computing - Platform Engineering, DevOps, SRE
 
